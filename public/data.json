@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "fileSize": "0.9MB",
+        "close": true,
+        "tagDetails": {
+            "isOpen": true,
+            "tagTitle": "Download Now",
+            "tagColor": "green"
+        }
+    },
+    {
+        "id": 2,
+        "description": "Proin eget tortor risus, vestibulum at eros.",
+        "fileSize": "1.2GB",
+        "close": false,
+        "tagDetails": {
+            "isOpen": false,
+            "tagTitle": "Start Upload",
+            "tagColor": "blue"
+        }
+    },
+    {
+        "id": 3,
+        "description": "Sed porttitor lectus nibh. Vivamus suscipit tortor eget felis porttitor volutpat.",
+        "fileSize": "512KB",
+        "close": true,
+        "tagDetails": {
+            "isOpen": true,
+            "tagTitle": "Preview File",
+            "tagColor": "orange"
+        }
+    },
+    {
+        "id": 4,
+        "description": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+        "fileSize": "5MB",
+        "close": false,
+        "tagDetails": {
+            "isOpen": false,
+            "tagTitle": "Retry",
+            "tagColor": "red"
+        }
+    },
+    {
+        "id": 5,
+        "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
+        "fileSize": "3.8MB",
+        "close": true,
+        "tagDetails": {
+            "isOpen": true,
+            "tagTitle": "Complete",
+            "tagColor": "purple"
+        }
+    },{
+        "id": 6,
+        "description": "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
+        "fileSize": "3.8MB",
+        "close": true,
+        "tagDetails": {
+            "isOpen": true,
+            "tagTitle": "Complete",
+            "tagColor": "purple"
+        }
+    }
+]
